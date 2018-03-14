@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 @Configuration
 @ComponentScan("br.com.paulo.spring")
-public class SPrograma {
+public class Programa {
 
 /*    public static void main(String[] args){
         ApplicationContext context = new
